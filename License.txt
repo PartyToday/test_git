@@ -21,3 +21,5 @@ git status : Git이 현재 인식하고 있는 프로젝트 관련 내용들 출
 git commit -m "커밋 메시지" : 현재 staging area에 있는 것들 커밋으로 남기기
 
 git help [커맨드 이름] : 사용법이 궁금한 Git 커맨드의 공식 메뉴얼 내용 출력
+
+git push : local -> remote (서버)에 변경 내용 업데이트
